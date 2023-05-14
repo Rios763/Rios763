@@ -1,16 +1,25 @@
-### Hi there 👋
+# ***Bem vindo ao meu Github!*** 😁
 
-<!--
-**Rios763/Rios763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Olá, me chamo Gabriel Rios e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec Campinas. Sou completamente interessado por tecnologia tanto Hardware quando Software, inclusive também sou técnico em Eletrônica. Espero que goste do meu perfil aqui e ele será constantemente atualizado com os programas que faço ao decorrer do meu curso e da minha vida 
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Gabriel Rios GitHub stats](https://github-readme-stats.vercel.app/api?username=Rios763&show_icons=true&theme=tokyonight&count_private=true)
+
+## ***Linguagens que utilizo:***
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="Bootstrap" src="	https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img align="center" alt="C" src="
+	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  
+</div><br/>
+
+## ***Minhas redes sociais:***
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/gabriel_rios763/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100011346062866)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rios-315826211/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519988037476)
+
